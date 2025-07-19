@@ -6,7 +6,7 @@ Welcome to the GitHub repository for my research on identifying early biomarkers
 
 ## 🖼️ Poster Presentation
 
-![Research Poster](Machine Learning Driven Discovery of Alzheimer's Disease Biomarkers.png)
+![Research Poster](poster.png)
 
 ---
 
