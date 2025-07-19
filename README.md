@@ -6,7 +6,7 @@ Welcome to the GitHub repository for my research on identifying early biomarkers
 
 ## 🖼️ Poster Presentation
 
-![Research Poster](Poster.pdf)
+![Research Poster](Poster.png)
 
 ---
 
